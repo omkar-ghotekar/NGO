@@ -859,7 +859,7 @@ th {
 	left: 0;
 	width: 100%;
 	z-index: 9;
-	background: transparent
+	background-color: black
 }
 
 @media (max-width: 991px) {
@@ -1122,6 +1122,8 @@ th {
 .banner-area {
 	background: url(../img/background_rutuja.jpg) no-repeat;
 	background-size: cover
+    
+        
 }
 
 .banner-area .banner-content {
