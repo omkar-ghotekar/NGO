@@ -859,7 +859,7 @@ th {
 	left: 0;
 	width: 100%;
 	z-index: 9;
-	background-color: black
+	background-color: #15181d
 }
 
 @media (max-width: 991px) {
